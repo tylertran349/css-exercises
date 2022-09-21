@@ -2,10 +2,6 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-* {
-  border: 2px solid red;
-}
-
 img {
   width: 100px;
   height: 100px;
